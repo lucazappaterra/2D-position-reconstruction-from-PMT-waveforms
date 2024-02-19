@@ -5,8 +5,8 @@
 * A possible application of such a Neural Network is the 3D reconstruction of the particle's track, if combined with the images from the LIME Time Projection Chamber. Neveretheless, this part will not be covered in this project, since it would require appropriate data analysis from the underground facility in Laboratori Nazionali del Gran Sasso.
 * The network study is expanded with a **toy model simulation**, and the results are presented as squared **RMSE-colormaps** which are able to provide at glance the network's predictions precision over the scanned regions.
 
-The dataset used to train the networks can be found on [Google Drive](https://drive.google.com/drive/folders/1-3Ghqj2Ps7Avec3rxHVLbOZatDtLko-8?usp=sharing), along with a .csv file used to keep track of the target positions scanned in the various runs. \\
-Moreover, a folder containg some relevant pre-trained models can be found at the same link. \\
+The dataset used to train the networks can be found on [Google Drive](https://drive.google.com/drive/folders/1-3Ghqj2Ps7Avec3rxHVLbOZatDtLko-8?usp=sharing), along with a .csv file used to keep track of the target positions scanned in the various runs. \
+Moreover, a folder containg some relevant pre-trained models can be found at the same link. \
 In order for the code to work, **please add a shortcut to this folder on your main GDrive folder**.
 
 ```
