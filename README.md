@@ -13,3 +13,4 @@ In order for the code to work, **please add a shortcut to this folder on your ma
 Code by Luca Zappaterra, last modified: 11/07/2022
 ```
 
+You can find the explanation of the results obtained in the pdf presentation
