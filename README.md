@@ -1,3 +1,5 @@
+# **AML Project - Position Reconstruction using PMTs waveforms from CYGNO LIME detector**
+
 * The idea of this project came from a laboratory activity done in Laboratori Nazionali di Frascati, based on the CYGNO experiment for Directional Dark Matter search. 
 * The main goal is to study the behaviour and efficiency of two possible Neural Network architectures able to analyze the waveforms extracted from 4 PMTs, positioned at the corners of a squared-based cone, when a particle crosses the detector.
 * A possible application of such a Neural Network is the 3D reconstruction of the particle's track, if combined with the images from the LIME Time Projection Chamber. Neveretheless, this part will not be covered in this project, since it would require appropriate data analysis from the underground facility in Laboratori Nazionali del Gran Sasso.
